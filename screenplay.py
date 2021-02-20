@@ -1,6 +1,4 @@
-import csv
 import json
-import string
 from urllib.parse import urlparse
 import certifi
 import requests
@@ -8,18 +6,12 @@ import urllib3
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-from movie_mate_info import get_title_names
 
+# get screenplay from www.simplayscripts.com
+# input: titles : movie's titles, it's a list titles=['','']
+# output: semi-structured screenplays information to a json file
 
-def screenplay():
-    screenplay_url_list = get_screenplay_url_list()
-    for key, value in screenplay_url_list[0].items():
-        print(key, value)
-        download(key, value)
-
-
-def get_screenplay_url_list():
-    titles = get_title_names()
+def get_screenplays_from_simply_scripts(titles):
     url = 'https://www.simplyscripts.com/movie-screenplays.html'
     browser = webdriver.Firefox()
     browser.get(url)
@@ -31,27 +23,20 @@ def get_screenplay_url_list():
         if not links:
             has_no_script_titles.append(links)
         else:
-            index = 0
             for link in links:
+                screenply_map = {}
+                screenply_map.update({"title": title})
                 screenplay_url = link.get_attribute("href")
-                if check_url_path(screenplay_url):
-                    screenply_map = {title + "_" + str(index): screenplay_url}
-                    screenplay_url_list.append(screenply_map)
-                    index = index + 1
-    has_no_script_titles = list(dict.fromkeys(has_no_script_titles))
-    print(has_no_script_titles)
-    return screenplay_url_list
-
-
-def save_ref():
-    screenplay_list = get_screenplay_url_list()
-    file = open('screenplay.csv', 'w+')
-    writer = csv.writer(file)
-    for script in screenplay_list:
-        for title, url in script.items():
-            row = [title, url]
-            writer.writerow(row)
-    file.close()
+                screenply_map.update({"screenplay_url": screenplay_url})
+                screenplay_url_list.append(screenply_map)
+                parent_p = link.find_element_by_xpath("..")
+                text = parent_p.find_element_by_tag_name("span").text
+                screenply_map.update({"text": text})
+    # has_no_script_titles = list(dict.fromkeys(has_no_script_titles))
+    # print(has_no_script_titles)
+    with open('scripts_simply.json', 'w+') as outfile:
+        json.dump(screenplay_url_list, outfile)
+    return 'scripts_simply.json'
 
 
 def check_url_path(url):
@@ -61,6 +46,16 @@ def check_url_path(url):
         return True
     else:
         return False
+
+
+def batch_download(filename):
+    with open(filename, 'r') as json_file:
+        data = json.load(json_file)
+        for item in data:
+            title = item['title']
+            url = item['screenplay_url']
+            download(title, url)
+    return True
 
 
 def download(title, url):
@@ -74,8 +69,11 @@ def download(title, url):
     file_.close()
 
 
-def search():
-    titles = get_title_names()
+# get screenplay from www.dailyscripts.com
+# input: titles : movie's titles, it's a list titles=['','']
+# output: semi-structured screenplays information to a json file
+
+def get_screenplays_from_daily_scripts(titles):
     url_a_m = "https://www.dailyscript.com/movie.html"
     url_n_z = "https://www.dailyscript.com/movie_n-z.html"
     movie_page_a = requests.get(url_a_m)
@@ -88,31 +86,31 @@ def search():
     for title in titles:
         has_script = False
         for item in items_a:
-            script = get_script(title, item)
+            script = parse_script(title, item)
             if script:
                 script_list.append(script)
                 has_script = True
         for item in items_b:
-            script = get_script(title, item)
+            script = parse_script(title, item)
             if script:
                 script_list.append(script)
                 has_script = True
         if not has_script:
             print(title)
-    with open('script.json', 'w+') as outfile:
+    with open('scripts_daily.json', 'w+') as outfile:
         json.dump(script_list, outfile)
-    return script_list
+    return 'scripts_daily.json'
 
 
-def get_script(title, item):
+def parse_script(title, item):
     domain = "https://www.dailyscript.com/"
     script = {}
     # a
     movie_a = item.find("a", string=title)
-    if movie_a and movie_a.text==title:
+    if movie_a and movie_a.text == title:
         script_url = domain + movie_a.get("href")
         if check_url_path(script_url):
-            script.update({"link": script_url})
+            script.update({"screenplay_url": script_url})
         # text
         # movie_des = item.text
         script.update({"title": title})

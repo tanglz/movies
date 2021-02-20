@@ -1,28 +1,21 @@
-import csv
-from urllib.parse import urlparse
-
-# Press the green button in the gutter to run the script.
-from screenplay import save_ref, download, search, get_screenplay_url_list
+from movie_meta_info import movie_mate_info, get_title_names
+from screenplay import get_screenplays_from_simply_scripts, get_screenplays_from_daily_scripts, batch_download
 
 if __name__ == '__main__':
-    # collection()
-    # find_url("test")
-    # screenplay()
-    # link="https://www.dailyscript.com/scripts/Godfather,%20The.txt"
-    # link="https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Godfather,%20The-Continuity.pdf"
-    link = "https://www.dailyscript.com/scripts/Godfather,%20The.txt"
-    title = "Goodfellas_0"
-    # download(title, link)
-    # The Godfather_0
-    # save_ref()
-    # file = open('Goodfellas_0.txt', 'r')
-    # lines = file.readlines()
-    # index = 0
-    # for line in lines:
-    #     if line.strip():
-    #         print(str(index)+":" + line.strip())
-    #         index = index + 1
-    #         if "INT" in line.strip():
-    #             break
-    # search()
-    get_screenplay_url_list()
+    # get movie mate information
+    #movie_mate_info()
+
+    # # get screenplay
+    # get movie titles
+    titles = get_title_names()
+    # save screenplay semi-structured information from website:simply_scripts
+    filename = get_screenplays_from_simply_scripts(titles)
+
+    # save screenplay semi-structured information from website:daily_scripts
+    # filename = get_screenplays_from_daily_scripts(titles)
+
+    # batch download screenplay
+    # result = batch_download(filename)
+
+    # if result:
+    #     print("finished")

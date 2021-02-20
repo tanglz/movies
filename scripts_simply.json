@@ -1,0 +1,772 @@
+[
+  {
+    "title": "The Godfather",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Godfather,%20The.txt",
+    "text": "(3/29/71 third draft) by Mario Puzo, Francis Ford Coppola host:"
+  },
+  {
+    "title": "The Godfather",
+    "screenplay_url": "http://www.awesomefilm.com/script/THEGODFATHER.txt",
+    "text": "(3/29/71 third draft) by Mario Puzo and Francis Ford Coppola host:"
+  },
+  {
+    "title": "The Godfather",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Godfather,%20The-Continuity.pdf",
+    "text": "(Undated continuity ) by Mario Puzo, Francis Ford Coppola host:"
+  },
+  {
+    "title": "The Godfather",
+    "screenplay_url": "https://www.dailyscript.com/scripts/godfather2.html",
+    "text": "(September 24, 1973 second draft) by Mario Puzo and Francis Ford Coppola host:"
+  },
+  {
+    "title": "The Godfather",
+    "screenplay_url": "http://www.awesomefilm.com/script/Godfather_PartIII(3-12-79).pdf",
+    "text": "(March 12, 1979 first draft) by Dean Rieser (story by Mario Puzo) host:"
+  },
+  {
+    "title": "The Godfather",
+    "screenplay_url": "http://www.awesomefilm.com/script/godfather3.pdf",
+    "text": "(May 10, 1989 first draft) by Mario Puzo and Francis Ford Coppola host:"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "screenplay_url": "https://www.dailyscript.com/scripts/shawshank.html",
+    "text": "(Undated, unspecified draft) by Stephen King & Frank Darabont host:"
+  },
+  {
+    "title": "Schindler's List",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Schindler's%20List.txt",
+    "text": "(Undated, unspecified draft) by Steven Zaillian host:"
+  },
+  {
+    "title": "Schindler's List",
+    "screenplay_url": "http://www.awesomefilm.com/script/schindlerslist.txt",
+    "text": "(1st revision) by Steven Zaillianf host:"
+  },
+  {
+    "title": "Schindler's List",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Schindlers_List.htm",
+    "text": "(Unspecified ) by Thomas Keneally (book), Steven Zaillian (screenplay) host:"
+  },
+  {
+    "title": "Raging Bull",
+    "screenplay_url": "https://www.dailyscript.com/scripts/raging_bull.html",
+    "text": "(Undated, unspecified draft) by Paul Schrader and Mardik Martin host:"
+  },
+  {
+    "title": "Raging Bull",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Raging+Bull.txt",
+    "text": "(Unspecified ) by Paul Schrader and Mardik Martin host:"
+  },
+  {
+    "title": "Casablanca",
+    "screenplay_url": "https://www.dailyscript.com/scripts/casablanca.pdf",
+    "text": "(Undated, unspecified draft) by Julius Epstein, Philip Epstein, Howard Koch host:"
+  },
+  {
+    "title": "Casablanca",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Casablanca.txt",
+    "text": "(Undated, unspecified draft) by Julius Epstein, Philip Epstein, Howard Koch host:"
+  },
+  {
+    "title": "Citizen Kane",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Citizen%20Kane.txt",
+    "text": "(Undated, unspecified draft) by Herman J. Mankiewicz, Orson Welles host:"
+  },
+  {
+    "title": "Citizen Kane",
+    "screenplay_url": "http://www.aellea.com/script/citizenkane_script.txt",
+    "text": "(Final draft) by Orson Welles, Herman J. Mankiewicz host:"
+  },
+  {
+    "title": "Citizen Kane",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Citizen_Kane.htm",
+    "text": "(Unspecified ) by Herman J. Mankiewicz, Orson Welles (original screenplay), and 3 more credits host:"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/wizoz.txt",
+    "text": "(March 15, 1939 last revised script) by Noel Langley, Florence Ryerson & Edgar Allen Woolf host:"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Lawerence_of_Arabia.pdf",
+    "text": "(Undated, unspecified shooting draft ) by Robert Bolt host:"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "screenplay_url": "http://www.scribd.com/doc/16665787/Lawrence-of-Arabia",
+    "text": "(Undated, unspecified draft ) by Robert Bolt host:"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Lawrence_of_Arabia.pdf",
+    "text": "(Unspecified ) by T.E. Lawrence (writings), Robert Bolt (screenplay) host:"
+  },
+  {
+    "title": "Vertigo",
+    "screenplay_url": "https://www.dailyscript.com/scripts/vertigo.html",
+    "text": "(9/12/1957 draft) by Alec Copple and Samuel taylor host:"
+  },
+  {
+    "title": "Vertigo",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Vertigo.txt",
+    "text": "(9/12/1957 draft) by Alec Copple and Samuel taylor host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "http://alexcassun.files.wordpress.com/2012/12/hitchcock_shooting_script_2.pdf",
+    "text": "(Undated, unspecified draft ) by John J. McLaughlin (based on the book Alfred Hitchcock and the Making of Psycho by Stephen Rebello) host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "https://www.dailyscript.com/scripts/American_Psycho_Harron_Turner.html",
+    "text": "(November 1998 forth draft) by Mary Harron and Guinevere Turner host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "https://www.dailyscript.com/scripts/american_psycho_unproduced.html",
+    "text": "(June 1998 unproduced) by Matthew Markwalder host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Hitchcock.pdf",
+    "text": "(Undated, unspecified draft ) by John J. McLaughlin (based on the book Alfred Hitchcock and the Making of Psycho by Stephen Rebello) host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Psycho.txt",
+    "text": "(December 1, 1959 revised draft) by Robert Bloch & Joseph Stefano host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "https://www.dailyscript.com/scripts/psycho_revised.html",
+    "text": "(December 1, 1959 revised draft) by Robert Bloch & Joseph Stefano host:"
+  },
+  {
+    "title": "Psycho",
+    "screenplay_url": "http://www.aellea.com/emruf3/psycho.html",
+    "text": "(Undated, unspecified draft) by Michael O'Donoghue host:"
+  },
+  {
+    "title": "Sunset Blvd.",
+    "screenplay_url": "https://www.dailyscript.com/scripts/sunset_bld_3_21_49.html",
+    "text": "(May 21, 1949 draft) by Charles Brackett, Billy Wilder, D.M. Marshman, Jr. host:"
+  },
+  {
+    "title": "Forrest Gump",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Forrest%20Gump.txt",
+    "text": "(Undated, unspecified draft) by Eric Roth & Winston Groom host:"
+  },
+  {
+    "title": "12 Angry Men",
+    "screenplay_url": "https://www.dailyscript.com/scripts/12AngryMen.pdf",
+    "text": "(February 14, 1996 First Draft ) by Reginald Rose host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/star_wars_1st_7_74.txt",
+    "text": "(7/74 rough) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/star_wars_4th.txt",
+    "text": "(4th draft \"public version\") by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/swd1_5-74.txt",
+    "text": "(5/74 rough draft) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Star_Wars.pdf",
+    "text": "(Unspecified ) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/star_wars_3rd.txt",
+    "text": "(8/1/75 3rd draft) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/SWSECOND.TXT",
+    "text": "(1/28/75 2nd draft) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Empire_Strikes_Back.pdf",
+    "text": "(Unspecified ) by Leigh Brackett (screenplay), Lawrence Kasdan (screenplay) host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/returnofthejedi.txt",
+    "text": "(3rd draft) by George Lucas Lawrence Kasdan host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/revengeofthejedi.txt",
+    "text": "(2nd draft) by George Lucas & Lawrence Kasdan host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.supershadow.com/starwars/episode3/revenge_of_the_sith/plot_script.html",
+    "text": "(Plot summary script synopsis story) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/esb_4th.txt",
+    "text": "(4th draft) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/esb_final.txt",
+    "text": "(Final draft) by George Lucas host:"
+  },
+  {
+    "title": "Star Wars",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/StarWars-Episode1.txt",
+    "text": "(Undated, unspecified draft) by George Lucas host:"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/2001.txt",
+    "text": "(1965 shooting) by Stanley Kubrick and Arthur C. Clarke host:"
+  },
+  {
+    "title": "Chinatown",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Chinatown.txt",
+    "text": "(October 9, 1973 3rd draft) by Robert Towne host:"
+  },
+  {
+    "title": "Chinatown",
+    "screenplay_url": "http://www.awesomefilm.com/script/chinatown.txt",
+    "text": "(3rd draft) by Robert Towne host:"
+  },
+  {
+    "title": "Chinatown",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Chinatown.htm",
+    "text": "(Unspecified ) by Robert Towne host:"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Singing-In-The-Rain.pdf",
+    "text": "(May 23, 1951, unspecified draft) by Adolph Green & Betty Comden host:"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "screenplay_url": "https://www.dailyscript.com/scripts/It's%20A%20Wonderful%20Life.txt",
+    "text": "(Undated, unspecified draft) by Frank Capra, Frances Goodrich, Albert Hackett, Jo Swerling host:"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "screenplay_url": "http://www.aellea.com/script/itsawonderfullife.txt",
+    "text": "(Undated, unspecified draft) by Philip Van Doren Stern, Frances Goodrich, Albert Hackett host:"
+  },
+  {
+    "title": "Some Like It Hot",
+    "screenplay_url": "http://www.aellea.com/script/somelikeithot_script.txt",
+    "text": "(November 12, 1958 draft) by Billy Wilder and I.A.L. Diamond host:"
+  },
+  {
+    "title": "Some Like It Hot",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Some+Like+It+Hot.txt",
+    "text": "(Unspecified ) by Billy Wilder and I.A.L. Diamond host:"
+  },
+  {
+    "title": "Apocalypse Now",
+    "screenplay_url": "http://www.awesomefilm.com/script/apocalypsenow_draft.txt",
+    "text": "(December 3, 1975 early draft ) by Francis Ford Coppola host:"
+  },
+  {
+    "title": "Apocalypse Now",
+    "screenplay_url": "https://www.dailyscript.com/scripts/apocalypsenowredux.html",
+    "text": "(Shooting draft ) by John Milius and Francis Ford Coppola host:"
+  },
+  {
+    "title": "Amadeus",
+    "screenplay_url": "http://sfy.ru/sfy.html?script=amadeus",
+    "text": "(Undated, unspecified draft) by Peter Shaffer host:"
+  },
+  {
+    "title": "Amadeus",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Amadeus.txt",
+    "text": "(Undated, unspecified draft) by Peter Shaffer host:"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "screenplay_url": "https://www.dailyscript.com/scripts/TLOTR%20-%20The%20Return%20Of%20The%20King.txt",
+    "text": "(October 2003 draft) by Frances Walsh, Philippa Boyens, Peter Jackson host:"
+  },
+  {
+    "title": "Gladiator",
+    "screenplay_url": "http://www.angelfire.com/movies/ridleyscott/script/Gladiator_FirstDraft.txt",
+    "text": "(Early draft) by David Franzoni, John Logan & William Nicholson host:"
+  },
+  {
+    "title": "Gladiator",
+    "screenplay_url": "http://www.angelfire.com/movies/ridleyscott/script/gladiator_seconddraft.txt",
+    "text": "(2nd draft) by David Franzoni, John Logan & William Nicholson host:"
+  },
+  {
+    "title": "Titanic",
+    "screenplay_url": "http://www.awesomefilm.com/script/titanic.html",
+    "text": "(Undated, unspecified draft) by James Cameron host:"
+  },
+  {
+    "title": "Titanic",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Titanic.txt",
+    "text": "(Unspecified ) by James Cameron host:"
+  },
+  {
+    "title": "Titanic",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Titanic.pdf",
+    "text": "(Unspecified ) by James Cameron host:"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Saving%20Private%20Ryan.txt",
+    "text": "(Undated, unspecified draft) by Robert Rodat host:"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "screenplay_url": "http://www.moviescriptsandscreenplays.com/BenandMatt/savingprivateryan.txt",
+    "text": "(Early draft) by Robert Rodant & Frank Darabont host:"
+  },
+  {
+    "title": "Unforgiven",
+    "screenplay_url": "https://www.dailyscript.com/scripts/unforgiven.html",
+    "text": "(April 23, 1984 production draft) by David Webb Peoples host:"
+  },
+  {
+    "title": "Unforgiven",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Unforgiven.txt",
+    "text": "(April 23, 1984 production draft) by David Webb Peoples host:"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Raiders_of_the_Lost_Ark.pdf",
+    "text": "(Unspecified ) by Lawrence Kasdan (screenplay), George Lucas (story) host:"
+  },
+  {
+    "title": "Rocky",
+    "screenplay_url": "https://www.dailyscript.com/scripts/rocky.html",
+    "text": "(January 7, 1976 revised) by Sylvester Stallone host:"
+  },
+  {
+    "title": "Rocky",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Rocky.txt",
+    "text": "(1/7/76 revised) by Sylvester Stallone host:"
+  },
+  {
+    "title": "Rocky",
+    "screenplay_url": "https://www.dailyscript.com/scripts/ROCKY.pdf",
+    "text": "(October 6, 2005 final draft) by Sylvester Stallone host:"
+  },
+  {
+    "title": "Rocky",
+    "screenplay_url": "http://www.horrorlair.com/scripts/rhps.txt",
+    "text": "(Undated, unspecified draft) by Richard O'Brian & Jim Sharman host:"
+  },
+  {
+    "title": "Rocky",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Rocky_V.pdf",
+    "text": "(Unspecified ) by Sylvester Stallone host:"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "screenplay_url": "https://www.dailyscript.com/scripts/To_Kill_a_Mockingbird.pdf",
+    "text": "(February 8, 19XX shooting draft ) by Horton Foote. (Based on the novel by Harper Lee) host:"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "screenplay_url": "http://www.horrorlair.com/scripts/clockwork_orange.html",
+    "text": "(Undated, unspecified draft) by Stanley Kubrick host:"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "screenplay_url": "https://www.dailyscript.com/scripts/A+Clockwork+Orange.pdf",
+    "text": "(Undated, unspecified draft) by Stanley Kubrick host:"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/clockwork.txt",
+    "text": "(Undated, unspecified draft) by Stanley Kubrick host:"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "screenplay_url": "https://www.dailyscript.com/scripts/drzhivago.pdf",
+    "text": "(September 1964 shooting script) by Robert Bolt host:"
+  },
+  {
+    "title": "The Searchers",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Searchers,%20The.txt",
+    "text": "(Revised final screenplay) by Frank Nugent host:"
+  },
+  {
+    "title": "The Searchers",
+    "screenplay_url": "http://www.aellea.com/script/searchers.html",
+    "text": "(Revised final screenplay) by Frank Nugent host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Jaws.txt",
+    "text": "(Revised final draft) by Peter Benchly & Carl Gottlieb host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws_final_draft.txt",
+    "text": "(Final draft) by Peter Benchly & Howard Sackler host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws_late_draft.txt",
+    "text": "(Revised final draft) by Peter Benchly & Carl Gottlieb host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Jaws%202.txt",
+    "text": "(Final draft) by Howard Sckler & Dorothay Tristan host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws2_revised_final_draft.txt",
+    "text": "(Revised final draft) by Carl Gottlieb host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws2finaldraft.txt",
+    "text": "(Final draft) by Howard Sckler & Dorothay Tristan host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws3_1st_draft.txt",
+    "text": "(Revised final draft) by Michael Kane & Richard Matheson host:"
+  },
+  {
+    "title": "Jaws",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jaws_the_revenge.txt",
+    "text": "(Revised final shooting script) by Michael De Guzman host:"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Treasure_of_the_Sierra_Madre,_The.pdf",
+    "text": "(Unspecified ) by John Huston (screenplay), B. Traven (based on the novel by) host:"
+  },
+  {
+    "title": "The Apartment",
+    "screenplay_url": "https://www.dailyscript.com/scripts/apartment.html",
+    "text": "(Undated, unspecified draft) by Billy Wilder & I.A.L. Diamond host:"
+  },
+  {
+    "title": "Platoon",
+    "screenplay_url": "https://www.dailyscript.com/scripts/platoon.html",
+    "text": "(Undated, unspecified draft) by Oliver Stone host:"
+  },
+  {
+    "title": "Platoon",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Platoon.txt",
+    "text": "(Undated, unspecified draft) by Oliver Stone host:"
+  },
+  {
+    "title": "High Noon",
+    "screenplay_url": "https://www.dailyscript.com/scripts/High_Noon-1952-Shooting-script.pdf",
+    "text": "(Undated Shooting draft ) by Carl Foreman (based on a story by John M. Cunningham) host:"
+  },
+  {
+    "title": "Braveheart",
+    "screenplay_url": "http://www.awesomefilm.com/script/braveht.txt",
+    "text": "(Early draft) by Randall Wallace host:"
+  },
+  {
+    "title": "Braveheart",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Braveheart.txt",
+    "text": "(Unspecified ) by Randall Wallace host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/JurassicPark_1stDraft.txt",
+    "text": "(March 14, 1992 first draft) by Michael Crichton host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "http://web.archive.org/web/20030424093216/http://www.jpdatabase.net/jurassic/downloadable/jurassicpark_script_final.txt",
+    "text": "(December 11, 1992 final draft) by David Koepp host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "http://www.jpdatabase.net/",
+    "text": "(December 11, 1992 final draft) by David Koepp host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "http://www.scifiscripts.com/scripts/jurassic2_thw.txt",
+    "text": "(Undated, unspecified draft) by David Koepp host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "https://www.dailyscript.com/scripts/jp3.html",
+    "text": "(Undated, unspecified draft) by Peter Buchman and is revised by Alexander Payne, John August, and Jim Taylor. host:"
+  },
+  {
+    "title": "Jurassic Park",
+    "screenplay_url": "http://www.horrorlair.com/scripts/jurassic2_thw.txt",
+    "text": "(Undated, unspecified draft) by David Koepp host:"
+  },
+  {
+    "title": "The Exorcist",
+    "screenplay_url": "http://www.horrorlair.com/scripts/exorcist.html",
+    "text": "(Shooting) by William P. Blat host:"
+  },
+  {
+    "title": "The Pianist",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Pianist,%20The.txt",
+    "text": "(1998 final draft) by Ronald Hardwood (based on the published memoir by Wladyslaw Szpilman) host:"
+  },
+  {
+    "title": "The Pianist",
+    "screenplay_url": "https://www.dailyscript.com/scripts/thepianist.html",
+    "text": "(1998 final draft) by Ronald Hardwood (based on the published memoir by Wladyslaw Szpilman) host:"
+  },
+  {
+    "title": "Goodfellas",
+    "screenplay_url": "https://www.dailyscript.com/scripts/goodfellas.html",
+    "text": "(January 31, 1989 revised final draft) by Nicholas Pileggi & Martin Scorsese host:"
+  },
+  {
+    "title": "Goodfellas",
+    "screenplay_url": "https://www.dailyscript.com/scripts/goodfellas.pdf",
+    "text": "(Early draft) by Nicholas Pileggi & Martin Scorsese host:"
+  },
+  {
+    "title": "Goodfellas",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Goodfellas.pdf",
+    "text": "(January 12, 1989 revised draft ) by Nicholas Pileggi & Martin Scorsese host:"
+  },
+  {
+    "title": "The Deer Hunter",
+    "screenplay_url": "https://www.dailyscript.com/scripts/deer_hunter.html",
+    "text": "(Undated, unspecified draft) by Deric Washburn host:"
+  },
+  {
+    "title": "The Deer Hunter",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Deer_Hunter.pdf",
+    "text": "(Unspecified ) by Michael Cimino and Deric Washburn host:"
+  },
+  {
+    "title": "Bonnie and Clyde",
+    "screenplay_url": "http://sfy.ru/sfy.html?script=bonnie_and_clyde",
+    "text": "(Undated, unspecified draft) by David Newman & Robert Benton host:"
+  },
+  {
+    "title": "The French Connection",
+    "screenplay_url": "https://www.dailyscript.com/scripts/frenchconnection.html",
+    "text": "(4/26/71 revised ) by Ernest Tidyman (based on the book by Robin Moore) host:"
+  },
+  {
+    "title": "City Lights",
+    "screenplay_url": "http://chaplin.bfi.org.uk/resources/bfi/filmog/film_thumb.php?fid=59405&resource=Script",
+    "text": "(Cutting continuity ) by Charlie Chaplin host:"
+  },
+  {
+    "title": "It Happened One Night",
+    "screenplay_url": "https://www.dailyscript.com/scripts/It%20Happened%20One%20Night.txt",
+    "text": "(Undated, unspecified draft) by Robert Riskin, based on a story by Samuel Hopkins Adams host:"
+  },
+  {
+    "title": "It Happened One Night",
+    "screenplay_url": "https://www.dailyscript.com/scripts/It_Happened_one_night.html",
+    "text": "(Undated final draft) by Robert Riskin host:"
+  },
+  {
+    "title": "It Happened One Night",
+    "screenplay_url": "https://www.dailyscript.com/scripts/It+Happened+One+Night.txt",
+    "text": "(Unspecified ) by Robert Riskin, based on a story by Samuel Hopkins Adams host:"
+  },
+  {
+    "title": "Midnight Cowboy",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Midnight%20Cowboy.txt",
+    "text": "(2/2/68 draft) by James Herlily & Waldo Salt host:"
+  },
+  {
+    "title": "Midnight Cowboy",
+    "screenplay_url": "https://www.dailyscript.com/scripts/midnightcowboy.html",
+    "text": "(2/2/68 draft) by James Herlily & Waldo Salt host:"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "screenplay_url": "https://www.dailyscript.com/scripts/MrSmithGoesToWashington.txt",
+    "text": "(Production draft) by Sidney Buchman, original story by Lewis R. Foster host:"
+  },
+  {
+    "title": "Annie Hall",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Annie%20Hall.txt",
+    "text": "(Undated, unspecified draft) by Woody Allen & Marshall Brickman host:"
+  },
+  {
+    "title": "Annie Hall",
+    "screenplay_url": "http://www.aellea.com/script/anniehall.txt",
+    "text": "(Undated, unspecified draft) by Woody Allen & Marshall Brickman host:"
+  },
+  {
+    "title": "Annie Hall",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Annie_Hall.pdf",
+    "text": "(Undated, unspecified draft ) by Woody Allen, Marshall Brickman host:"
+  },
+  {
+    "title": "Fargo",
+    "screenplay_url": "https://www.dailyscript.com/scripts/fargo.html",
+    "text": "(Undated, unspecified draft) by Joel & Ethan Coen host:"
+  },
+  {
+    "title": "Fargo",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Fargo.txt",
+    "text": "(Undated, unspecified draft) by Joel & Ethan Coen host:"
+  },
+  {
+    "title": "Fargo",
+    "screenplay_url": "https://web.archive.org/web/20131219023653/http://www.youknow-forkids.com/fargo.txt",
+    "text": "(Undated, unspecified draft) by Joel Coen and Ethan Coen host:"
+  },
+  {
+    "title": "Fargo",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Fargo.htm",
+    "text": "(Unspecified ) by Ethan Coen, Joel Coen host:"
+  },
+  {
+    "title": "Giant",
+    "screenplay_url": "https://www.dailyscript.com/scripts/giant.pdf",
+    "text": "(April 4, 1944 final ) by Fred Guidol & Ivan Moffat (based on the novel by Edna Ferber) host:"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Grapes%20Of%20Wrath,%20The.txt",
+    "text": "(Undated, unspecified draft) by Nunnally Johnson host:"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "screenplay_url": "https://www.dailyscript.com/scripts/grapes_of_wrath.html",
+    "text": "(Undated, unspecified draft) by Nunnally Johnson host:"
+  },
+  {
+    "title": "The Green Mile",
+    "screenplay_url": "http://www.horrorlair.com/scripts/The_Green_Mile.txt",
+    "text": "(November 4, 1997 first draft) by Frank Darabont host:"
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Close_Encounters_of_the_Third_Kind.pdf",
+    "text": "(Unspecified ) by Steven Spielberg host:"
+  },
+  {
+    "title": "Nashville",
+    "screenplay_url": "https://www.dailyscript.com/scripts/nashville.html",
+    "text": "(June 8, 1974 draft) by Joan Tewksbury host:"
+  },
+  {
+    "title": "Network",
+    "screenplay_url": "http://sfy.ru/sfy.html?script=network",
+    "text": "(Revised draft) by Paddy Chaiyefski host:"
+  },
+  {
+    "title": "The Graduate",
+    "screenplay_url": "http://www.awesomefilm.com/script/graduate.txt",
+    "text": "(March 29, 1967 final draft) by Buck Henry host:"
+  },
+  {
+    "title": "The Graduate",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Graduate,+The.txt",
+    "text": "(Unspecified ) by Calder Willingham and Buck Henry host:"
+  },
+  {
+    "title": "American Graffiti",
+    "screenplay_url": "https://www.dailyscript.com/scripts/American%20Graffiti.txt",
+    "text": "(Final draft) by George Lucas, Gloria Katz & Willard Huyck host:"
+  },
+  {
+    "title": "American Graffiti",
+    "screenplay_url": "http://web.archive.org/web/20040610183648/http://www.melsdrive-in.com/script.html",
+    "text": "(Final draft) by George Lucas, Gloria Katz & Willard Huyck host:"
+  },
+  {
+    "title": "Pulp Fiction",
+    "screenplay_url": "https://www.dailyscript.com/scripts/pulp_fiction.html",
+    "text": "(May 1993 final draft) by Quentin Tarantino, Roger Avary host:"
+  },
+  {
+    "title": "Pulp Fiction",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Pulp_Fiction.pdf",
+    "text": "(Unspecified ) by Quentin Tarantino, Roger Avary host:"
+  },
+  {
+    "title": "Terms of Endearment",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Terms_of_Endearment.pdf",
+    "text": "(Unspecified ) by Larry McMurtry (based on the novel by), James L. Brooks (screenplay) host:"
+  },
+  {
+    "title": "Good Will Hunting",
+    "screenplay_url": "http://www.moviescriptsandscreenplays.com/BenandMatt/goodwillhunting.txt",
+    "text": "(Early draft) by Matt Damon and Ben Affleck host:"
+  },
+  {
+    "title": "Good Will Hunting",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Good_Will_Hunting.pdf",
+    "text": "(January 22, 1997 unspecified draft ) by Matt Damon, Ben Affleck host:"
+  },
+  {
+    "title": "The African Queen",
+    "screenplay_url": "https://www.dailyscript.com/scripts/African%20Queen,%20The%20(1951).txt",
+    "text": "(Shooting draft) by James Agee, John Huston and Peter Viertel, based on a novel by C.S. Forester host:"
+  },
+  {
+    "title": "Stagecoach",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Stagecoach%20(1939).txt",
+    "text": "(Shooting draft) by Dudley Nichols and Ben Hecht host:"
+  },
+  {
+    "title": "Double Indemnity",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Double%20Indemnity.txt",
+    "text": "(Undated, unspecified draft) by Billy Wilder and Raymond Chandler host:"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Maltese_Falcon.pdf",
+    "text": "(1941 final remake) by John Huston (from the novel by Dashiell Hammett) host:"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Maltese_Falcon.pdf",
+    "text": "(Unspecified ) by John Huston (screenplay), Dashiell Hammett (novel) host:"
+  },
+  {
+    "title": "Taxi Driver",
+    "screenplay_url": "https://www.dailyscript.com/scripts/taxidriver.html",
+    "text": "(Undated, unspecified draft) by Paul Schrader host:"
+  },
+  {
+    "title": "Taxi Driver",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Taxi%20Driver.txt",
+    "text": "(Unspecified ) by Paul Schrader host:"
+  },
+  {
+    "title": "Rear Window",
+    "screenplay_url": "https://www.dailyscript.com/scripts/rearwindow.pdf",
+    "text": "(December 1, 1953 final white draft) by John Michael Hayes host:"
+  },
+  {
+    "title": "Rear Window",
+    "screenplay_url": "https://www.dailyscript.com/scripts/Rear+Window.txt",
+    "text": "(Unspecified ) by John Michael Hayes host:"
+  },
+  {
+    "title": "The Third Man",
+    "screenplay_url": "https://www.dailyscript.com/scripts/the_third_man.html",
+    "text": "(Undated, unspecified draft) by Graham Green, Alexander Korda & Orson Welles host:"
+  },
+  {
+    "title": "North by Northwest",
+    "screenplay_url": "https://web.archive.org/web/20160221233643/http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-North_by_Northwest.pdf",
+    "text": "(Unspecified ) by Ernest Lehman host:"
+  }
+]
