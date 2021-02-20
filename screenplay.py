@@ -39,15 +39,6 @@ def get_screenplays_from_simply_scripts(titles):
     return 'scripts_simply.json'
 
 
-def check_url_path(url):
-    url_obj = urlparse(url)
-    path = url_obj.path.lower()
-    if path.endswith(".html") or path.endswith(".txt") or path.endswith(".pdf"):
-        return True
-    else:
-        return False
-
-
 def batch_download(filename):
     with open(filename, 'r') as json_file:
         data = json.load(json_file)
@@ -59,14 +50,23 @@ def batch_download(filename):
 
 
 def download(title, url):
+    url_obj = urlparse(url)
+    path = url_obj.path.lower()
     http = urllib3.PoolManager(
         cert_reqs='CERT_REQUIRED',
         ca_certs=certifi.where()
     )
     resp = http.request('GET', url)
-    file_ = open(title + ".txt", 'wb')
-    file_.write(resp.data)
-    file_.close()
+    suffix = ""
+    if path.endswith(".txt"):
+        suffix = ".txt"
+    elif path.endswith(".html"):
+        suffix = ".html"
+    elif path.endswith(".pdf"):
+        suffix = ".pdf"
+    file = open("screenplays/"+title + suffix, 'wb')
+    file.write(resp.data)
+    file.close()
 
 
 # get screenplay from www.dailyscripts.com
@@ -95,8 +95,8 @@ def get_screenplays_from_daily_scripts(titles):
             if script:
                 script_list.append(script)
                 has_script = True
-        if not has_script:
-            print(title)
+        # if not has_script:
+        #     print(title)
     with open('scripts_daily.json', 'w+') as outfile:
         json.dump(script_list, outfile)
     return 'scripts_daily.json'
@@ -109,8 +109,7 @@ def parse_script(title, item):
     movie_a = item.find("a", string=title)
     if movie_a and movie_a.text == title:
         script_url = domain + movie_a.get("href")
-        if check_url_path(script_url):
-            script.update({"screenplay_url": script_url})
+        script.update({"screenplay_url": script_url})
         # text
         # movie_des = item.text
         script.update({"title": title})
